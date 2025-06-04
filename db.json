@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "ingredients": "500g spaghetti, 500g ground beef, 2 onions (diced), 2 garlic cloves (minced), 2 carrots (diced), 2 celery stalks (diced), 800g canned tomatoes, 2 tbsp tomato paste, 1 cup beef stock, 1 tsp dried oregano, 1 tsp dried basil, Salt and pepper to taste, Parmesan cheese (for serving)",
+      "instructions": "1. Cook spaghetti according to package instructions.\n2. In a large pan, brown the ground beef over medium heat.\n3. Add onions, garlic, carrots, and celery. Cook until softened.\n4. Add tomatoes, tomato paste, beef stock, and herbs. Simmer for 30 minutes.\n5. Season with salt and pepper.\n6. Serve sauce over spaghetti with grated Parmesan.",
+      "imageUrl": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Classic Margherita Pizza",
+      "ingredients": "Pizza dough, 1 cup tomato sauce, 200g fresh mozzarella (sliced), Fresh basil leaves, 2 tbsp olive oil, Salt to taste",
+      "instructions": "1. Preheat oven to 475°F (245°C).\n2. Roll out pizza dough on a floured surface.\n3. Spread tomato sauce evenly over the dough.\n4. Arrange mozzarella slices on top.\n5. Bake for 10-12 minutes until crust is golden.\n6. Remove from oven, top with fresh basil leaves.\n7. Drizzle with olive oil and sprinkle with salt before serving.",
+      "imageUrl": "https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Chip Cookies",
+      "ingredients": "2 1/4 cups all-purpose flour, 1 tsp baking soda, 1 tsp salt, 1 cup unsalted butter (softened), 3/4 cup granulated sugar, 3/4 cup packed brown sugar, 2 large eggs, 2 tsp vanilla extract, 2 cups chocolate chips",
+      "instructions": "1. Preheat oven to 375°F (190°C).\n2. In a small bowl, mix flour, baking soda, and salt.\n3. In a large bowl, cream together butter and sugars until light and fluffy.\n4. Beat in eggs one at a time, then stir in vanilla.\n5. Gradually blend in the dry ingredients.\n6. Stir in chocolate chips.\n7. Drop by rounded tablespoons onto ungreased baking sheets.\n8. Bake for 9-11 minutes until golden brown.\n9. Cool on wire racks.",
+      "imageUrl": "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
+}
